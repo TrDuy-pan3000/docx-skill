@@ -1,0 +1,37 @@
+# ─── Word Documents (personal/project files) ───────────────────────────────
+*.docx
+*.doc
+*.xlsx
+*.pptx
+
+# Word lock files
+~$*
+
+# ─── Scratch / Debug session files ──────────────────────────────────────────
+scratch/
+
+# ─── Unpacked OOXML working directory ───────────────────────────────────────
+unpacked/
+temp_unpacked/
+
+# ─── Python ─────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+.venv/
+venv/
+env/
+
+# ─── OS / Editor ────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
