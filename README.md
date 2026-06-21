@@ -4,6 +4,23 @@
 
 ---
 
+## Table of Contents
+
+- [What this skill does](#what-this-skill-does)
+- [Skill entry point](#skill-entry-point)
+- [Repository structure](#repository-structure)
+- [Quickstart](#quickstart)
+  - [1. Unpack a `.docx` for editing](#1-unpack-a-docx-for-editing)
+  - [2. Edit the document (Python)](#2-edit-the-document-python)
+  - [3. Repack into `.docx`](#3-repack-into-docx)
+  - [4. Create a new document from scratch (JavaScript)](#4-create-a-new-document-from-scratch-javascript)
+- [Key workflows](#key-workflows)
+- [Academic formatting support](#academic-formatting-support)
+- [Dependencies](#dependencies)
+- [License](#license)
+
+---
+
 ## What this skill does
 
 This skill gives an AI agent the ability to:
