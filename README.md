@@ -123,4 +123,4 @@ npm install -g docx
 
 ## License
 
-See [LICENSE.txt](LICENSE.txt).
+[MIT License](LICENSE.txt) — Copyright (c) 2026 TrDuy-pan3000
